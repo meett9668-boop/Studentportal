@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "category": "Admissions",
+    "question": "How do I register as a student on the Student Hub portal?",
+    "answer": "Navigate to the Register page, enter your full name, student ID (e.g. 25CS104), official university email, mobile number, course, and a secure password of at least 8 characters. After submitting, your profile is immediately initialized.",
+    "views": 412,
+    "updated": "2026-10-25"
+  },
+  {
+    "id": 2,
+    "category": "Academic",
+    "question": "Where can I view my subject-wise attendance and overall percentage?",
+    "answer": "Once signed in to your Student Portal, click 'My Attendance' in the top right user menu or student dashboard. The table displays attended classes, total lectures, and color-coded compliance percentages.",
+    "views": 850,
+    "updated": "2026-10-26"
+  },
+  {
+    "id": 3,
+    "category": "Academic",
+    "question": "How are semester grades and marks calculated?",
+    "answer": "Results are uploaded by course instructors following mid-semester examinations. The Results page displays subject scores out of 100 alongside assigned university letter grades (AA, AB, BB) and overall percentage.",
+    "views": 620,
+    "updated": "2026-10-27"
+  },
+  {
+    "id": 4,
+    "category": "Events",
+    "question": "How can I enroll in campus events or technical workshops?",
+    "answer": "Visit the Campus Events page or your Student Dashboard. Click 'Register Now' on any active event card. The system asynchronously checks available seats and registers you immediately without a page reload.",
+    "views": 390,
+    "updated": "2026-10-28"
+  },
+  {
+    "id": 5,
+    "category": "Account",
+    "question": "What should I do if I forget my account password?",
+    "answer": "Contact the department system administrator via the Contact Us form or in person at the CSPIT Computer Center to verify identity and trigger an administrative credential reset.",
+    "views": 184,
+    "updated": "2026-10-24"
+  },
+  {
+    "id": 6,
+    "category": "Admissions",
+    "question": "Can I update my phone number or contact address after registration?",
+    "answer": "Yes. Log in to your student account, open 'My Profile', update your phone number, gender, or residential address, and click 'Save Changes'. Your record updates instantly in the database.",
+    "views": 295,
+    "updated": "2026-10-29"
+  },
+  {
+    "id": 7,
+    "category": "Events",
+    "question": "Can I cancel an event registration if my schedule changes?",
+    "answer": "Yes. Open 'My Event Registrations' from your student menu and click 'Cancel Registration' to release your seat for fellow peers.",
+    "views": 150,
+    "updated": "2026-10-28"
+  },
+  {
+    "id": 8,
+    "category": "Account",
+    "question": "Is the Student Hub portal accessible on smartphones and tablets?",
+    "answer": "Absolutely. Student Hub is built on responsive Bootstrap 5.3 grids and custom media queries to provide a first-class mobile and desktop experience.",
+    "views": 530,
+    "updated": "2026-10-29"
+  }
+]
+

@@ -1,0 +1,21 @@
+# Environments and local secrets
+.env
+.env.local
+
+# Gemini / Antigravity workspace internal artifacts
+.gemini/
+.agent/
+.agents/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Uploaded test temp files (keep placeholder directory)
+studenthub/uploads/events/*
+!studenthub/uploads/events/.gitkeep
