@@ -19,3 +19,4 @@ Desktop.ini
 # Uploaded test temp files (keep placeholder directory)
 studenthub/uploads/events/*
 !studenthub/uploads/events/.gitkeep
+
